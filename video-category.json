@@ -1,15 +1,15 @@
 {
     "categories": [
       {
-        "category_name": "Beauty Videos",
+        "category_name": "💕 Beauty Videos",
         "video_list_url": "https://rajanikhana.github.io/mical/foren-reels.json"
       },
       {
-        "category_name": "Indian Videos",
+        "category_name": "🔥 Hot Videos",
         "video_list_url": "https://rajanikhana.github.io/mical/indian-reels.json"
       },
       {
-        "category_name": "Funny Clips",
+        "category_name": "🤣 Funny Clips",
         "video_list_url": "https://rajanikhana.github.io/mical/mix-reels.json"
       }
     ]
