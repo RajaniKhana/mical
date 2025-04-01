@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "category_name": "💕 Beauty Videos",
+      "video_list_url": "https://rajanikhana.github.io/mical/reels-part1.json"
+    },
+    {
+      "category_name": "💃 Dance Videos",
+      "video_list_url": "https://rajanikhana.github.io/mical/reels-part3.json"
+    },
+    {
+      "category_name": "🤣 Funny Videos",
+      "video_list_url": "https://rajanikhana.github.io/mical/reels-part2.json"
+    }
+  ]
+}
