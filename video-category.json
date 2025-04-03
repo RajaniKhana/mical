@@ -1,16 +1,16 @@
 {
-    "categories": [
-      {
-        "category_name": "💕 Beauty Videos",
-        "video_list_url": "https://rajanikhana.github.io/mical/foren-reels.json"
-      },
-      {
-        "category_name": "🔥 Hot Videos",
-        "video_list_url": "https://rajanikhana.github.io/mical/indian-reels.json"
-      },
-      {
-        "category_name": "🤣 Funny Clips",
-        "video_list_url": "https://rajanikhana.github.io/mical/mix-reels.json"
-      }
-    ]
-  }
+  "categories": [
+    {
+      "category_name": "💕 Beauty Videos",
+      "video_list_url": "https://rajanikhana.github.io/mical/hot-long-video1.json"
+    },
+    {
+      "category_name": "🔥 Hot Videos",
+      "video_list_url": "https://rajanikhana.github.io/mical/hot-long-video3.json"
+    },
+    {
+      "category_name": "🤣 Funny Clips",
+      "video_list_url": "https://rajanikhana.github.io/mical/hot-long-video2.json"
+    }
+  ]
+}
